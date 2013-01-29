@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Wordpress Fancybox for Media
-Plugin URI: https://github.com/RyanMauroDesign/Wordpress_Fancybox_Media
+Plugin URI: https://github.com/RyanMauroDesign/Wordpress-Fancybox-Media
 Description: <p>This plugin utilizes <a href="http://www.fancyapps.com/fancybox/" target="_blank" title="fancyBox">fancyBox</a> to open any YouTube video in a modal window when the link is given a class of "fancybox-media". It's as simple as that. <strong>Example: </strong></p><pre><code>&lt;a href="http://www.youtube.com/watch?v=yxxO6EG1Wqc" class="fancybox-media"&gt;Youtube Video&lt;/a&gt;</code></pre>
 Version: 1.0
 Author: Ryan Mauro
